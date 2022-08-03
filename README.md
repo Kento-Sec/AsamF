@@ -16,44 +16,44 @@ AsamF，Asset surveying and mapping
  
 ./AsamF -fofa 'body="网络空间测绘"'
 
-<img width="300" alt="1" src="https://user-images.githubusercontent.com/53268974/182521912-9c610c35-b3a0-44c0-abab-e5a653546e31.png">
+<img width="500" alt="1" src="https://user-images.githubusercontent.com/53268974/182521912-9c610c35-b3a0-44c0-abab-e5a653546e31.png">
 
  使用hunter不添加 -p 参数将默认显示20条 使用-k 可以切换对应编号的hunter_key
 
 ./AsamF -hunter 'apache' 
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/53268974/182522115-22db18d7-bb88-492d-a8b8-26b66d9c0742.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/53268974/182522115-22db18d7-bb88-492d-a8b8-26b66d9c0742.png">
 
  使用hunter添加 -p 参数是指数量，之后再改吧这个点。hunter这个功能还要再改改。先用着吧。
 
 ./AsamF -hunter 'apache' -p 100
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/53268974/182524974-b103d619-c9fe-45a3-a6c2-0f0cc324c1a7.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/53268974/182524974-b103d619-c9fe-45a3-a6c2-0f0cc324c1a7.png">
 
 
 ./AsamF -quake 'apache' -k 3
 
  使用quake不添加 -p 参数将默认显示10条 使用-k 可以切换对应编号的quake_key
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/53268974/182522374-98403bc6-6d0f-4ba2-82fa-1fb469eb43f9.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/53268974/182522374-98403bc6-6d0f-4ba2-82fa-1fb469eb43f9.png">
 
  使用quake添加 -p 参数,指获取多少页数据。如 -p 10 会获取100条数据
 
 ./AsamF -quake 'apache' -p 10
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/53268974/182522495-fbdbe2e4-5029-4eba-bf07-330836db8cbd.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/53268974/182522495-fbdbe2e4-5029-4eba-bf07-330836db8cbd.png">
 
  使用zoomeye不添加 -p 参数将默认显示20条 使用-k 可以切换对应编号的quake_key
 
 ./AsamF -zoomeye 'apache' -k 2
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/53268974/182522915-03e1000d-7c91-4000-9e64-84d4982e06cf.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/53268974/182522915-03e1000d-7c91-4000-9e64-84d4982e06cf.png">
 
  使用quake添加 -p 参数,指获取多少页数据。如 -p 10 会获取10页里的200条数据
 
 ./AsamF -zoomeye 'apache' -p 10
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/53268974/182523097-ff861514-98eb-4126-ba83-92d74de48d4b.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/53268974/182523097-ff861514-98eb-4126-ba83-92d74de48d4b.png">
 
 
 
