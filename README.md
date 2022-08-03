@@ -6,7 +6,7 @@ AsamF，Asset surveying and mapping
 
 将Fofa、Zoomeye、Quake、Hunter集成在一起。
 
-目前是第一版，之后有时间会进行改版，并且新增功能。有问题欢迎提issue
+目前是第一版，之后有时间会进行改版，并且新增功能。先用着吧。有问题欢迎提issue
 
 可以配置多个key
 
