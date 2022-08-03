@@ -11,6 +11,7 @@ AsamF是一款集成多个网络资产测绘平台的搜索工具
 ./AsamF 会自动生成配置文件，按照配置文件中的注释去填入key即可。
 
  使用Fofa无需提交其他参数。本程序会直接获取所有的搜索语句结果，但不超过10000条。
+ 
 ./AsamF -fofa 'body="网络空间测绘"'
 
 <img width="810" alt="1" src="https://user-images.githubusercontent.com/53268974/182521912-9c610c35-b3a0-44c0-abab-e5a653546e31.png">
