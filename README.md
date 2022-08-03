@@ -24,6 +24,13 @@ AsamF，Asset surveying and mapping
 
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/53268974/182522115-22db18d7-bb88-492d-a8b8-26b66d9c0742.png">
 
+ 使用hunter添加 -p 参数是指数量，之后再改吧这个点。hunter这个功能还要再改改。先用着吧。
+
+./AsamF -hunter 'apache' -p 100
+
+<img width="942" alt="image" src="https://user-images.githubusercontent.com/53268974/182524974-b103d619-c9fe-45a3-a6c2-0f0cc324c1a7.png">
+
+
 ./AsamF -quake 'apache' -k 3
 
  使用quake不添加 -p 参数将默认显示10条 使用-k 可以切换对应编号的quake_key
