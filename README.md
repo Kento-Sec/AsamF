@@ -16,7 +16,7 @@ AsamF，Asset surveying and mapping
  
 ./AsamF -fofa 'body="网络空间测绘"'
 
-<img width="810" alt="1" src="https://user-images.githubusercontent.com/53268974/182521912-9c610c35-b3a0-44c0-abab-e5a653546e31.png">
+<img width="300" alt="1" src="https://user-images.githubusercontent.com/53268974/182521912-9c610c35-b3a0-44c0-abab-e5a653546e31.png">
 
  使用hunter不添加 -p 参数将默认显示20条 使用-k 可以切换对应编号的hunter_key
 
@@ -28,7 +28,7 @@ AsamF，Asset surveying and mapping
 
 ./AsamF -hunter 'apache' -p 100
 
-<img width="942" alt="image" src="https://user-images.githubusercontent.com/53268974/182524974-b103d619-c9fe-45a3-a6c2-0f0cc324c1a7.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/53268974/182524974-b103d619-c9fe-45a3-a6c2-0f0cc324c1a7.png">
 
 
 ./AsamF -quake 'apache' -k 3
