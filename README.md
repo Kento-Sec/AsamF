@@ -1,6 +1,8 @@
 # AsamF
 AsamF是一款集成多个网络资产测绘平台的搜索工具
 
+AsamF，Asset surveying and mapping
+
 
 将Fofa、Zoomeye、Quake、Hunter集成在一起。
 
