@@ -32,6 +32,19 @@ AsamF，Asset survey and mapping V0.1.1
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/53268974/182890860-5a7c58ef-742d-4406-9b28-3211b21dcd9f.png">
 
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/182896433-c1e87adc-1927-40a5-be70-ee5da46e2da9.png">
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/182896763-729d02ba-b8a5-4598-95b6-64c8d306e636.png">
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/182897101-196c0cd4-5520-464e-b184-2c8438572471.png">
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/182896763-729d02ba-b8a5-4598-95b6-64c8d306e636.png">
+
+
+
+
+
 自行研究吧...
 
 未来新增功能：
