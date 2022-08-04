@@ -7,7 +7,7 @@ AsamF，Asset survey and mapping V0.1.1
 
 将Fofa、Zoomeye、Quake、Hunter集成在一起。
 
-本程序可以单独使用上述平台，也可以同时调用4个平台，因为4个平台的语法格式不同，因此调用4个平台聚合搜索的选项不支持关键字组合搜索。
+本程序可以单独使用上述平台，也可以同时调用4个平台，因为4个平台的语法格式不同，因此调用4个平台聚合搜索的选项不支持关键字组合搜索，也不是所有的选择均支持4个平台。
 
 1. 优化各个平台的取key，通过 -fk -hk -qk -zk 可以分别取key；
 
@@ -22,7 +22,7 @@ AsamF，Asset survey and mapping V0.1.1
 6. 修改了取数据方式。会根据查询数据结果数量来获取结果。使用Zoomeye、Quake、Hunter没有进行限制，因此存在结果数量太大，会一直获取到apikey的额度为0，使用时请注意。fofa不存在该问题。
 
 
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/53268974/182889524-42832701-6557-4162-83cf-30f4e0415f04.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/182889524-42832701-6557-4162-83cf-30f4e0415f04.png">
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/53268974/182890438-246e67cc-ce0b-4d18-97d8-5fb9be7df87f.png">
 
