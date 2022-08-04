@@ -47,13 +47,8 @@ AsamF，Asset survey and mapping V0.1.1
 
 自行研究吧...
 
-未来新增功能：
+未来还会新增一些功能
 
-1. 补充iu功能，icon url搜索功能；
-
-2. 批量搜索功能；
-
-3. quake接口功能。
 
 
 
