@@ -47,7 +47,8 @@ AsamF，Asset survey and mapping V0.1.1
 
 -fofatotal 聚合功能
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/182976212-301240a6-ed50-48ce-922c-3680c6624e08.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/182976932-217db434-183a-4665-8134-75730837b109.png">
+
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/182976418-58d63eb4-dba3-4a06-b780-2e99b58a0593.png">
 
