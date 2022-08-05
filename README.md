@@ -19,7 +19,7 @@ AsamF，Asset survey and mapping V0.1.1
 
 5. -zoomeyedomain 可以配合'-rs 1' 进行关联查询，默认不关联。
 
-6. 修改了取数据方式。会根据查询数据结果数量来获取结果。使用Zoomeye、Quake、Hunter没有进行限制，因此存在结果数量太大，会一直获取到apikey的额度为0，使用时请注意。fofa不存在该问题。
+6. 修改了取数据方式。会根据查询数据结果数量来获取结果。使用Zoomeye、Quake、Hunter没有进行限制，因此存在结果数量太大，会一直获取到apikey的额度为0，使用时请注意。fofa不存在该问题,最多10000条数据。
 
 7. 新增info功能，可以查询各个账户的信息。hunter不支持
 
