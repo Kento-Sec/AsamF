@@ -41,6 +41,35 @@ AsamF，Asset survey and mapping V0.1.1
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/182896763-729d02ba-b8a5-4598-95b6-64c8d306e636.png">
 
+-fofahost 主机搜索
+
+<img width="776" alt="image" src="https://user-images.githubusercontent.com/53268974/182976108-7cbbc2b7-01b9-426f-afbe-33511b3faf06.png">
+
+-fofatotal 聚合功能
+
+<img width="835" alt="image" src="https://user-images.githubusercontent.com/53268974/182976212-301240a6-ed50-48ce-922c-3680c6624e08.png">
+
+<img width="807" alt="image" src="https://user-images.githubusercontent.com/53268974/182976418-58d63eb4-dba3-4a06-b780-2e99b58a0593.png">
+
+
+<img width="807" alt="image" src="https://user-images.githubusercontent.com/53268974/182976418-58d63eb4-dba3-4a06-b780-2e99b58a0593.png">
+
+-zoomeyehost 
+
+<img width="805" alt="image" src="https://user-images.githubusercontent.com/53268974/182976526-61842fc5-4bb7-47d0-b07a-3d7301183ad6.png">
+
+-zoomeyeweb
+
+<img width="796" alt="image" src="https://user-images.githubusercontent.com/53268974/182976646-1b951dc6-95af-4fd8-90c2-5a22aa943711.png">
+
+-zoomeyedomain
+
+<img width="802" alt="image" src="https://user-images.githubusercontent.com/53268974/182976694-53d2ffc4-673d-4847-8198-cef0a7730268.png">
+
+<img width="796" alt="image" src="https://user-images.githubusercontent.com/53268974/182976646-1b951dc6-95af-4fd8-90c2-5a22aa943711.png">
+
+
+
 
 
 
