@@ -64,7 +64,8 @@ AsamF，Asset survey and mapping V0.1.1
 
 -zoomeyedomain
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/182976694-53d2ffc4-673d-4847-8198-cef0a7730268.png">
+<img width="808" alt="image" src="https://user-images.githubusercontent.com/53268974/182976855-bec3ee36-bc2d-40f4-a947-a2822060b754.png">
+
 
 
 
