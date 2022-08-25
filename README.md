@@ -38,7 +38,7 @@ V0.1.2版本更新
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/186685845-30e5f3d0-9fe0-4a5a-8dcd-b4021abbd615.png">
 
 
-<img width="669" alt="image" src="https://user-images.githubusercontent.com/53268974/186685950-aa477a08-b06d-4dc8-8cbd-47d513badb38.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/186685950-aa477a08-b06d-4dc8-8cbd-47d513badb38.png">
 
 
 
