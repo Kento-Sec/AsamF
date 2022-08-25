@@ -5,6 +5,63 @@ AsamF，Asset survey and mapping V0.1.1
 
 本程序仅供学习研究使用，禁止利用本程序对相关平台或其他企业或个人造成任何利益侵害！
 
+
+V0.1.2版本更新
+
+1.增加爱企查通过公司名称查域名功能；
+
+调用： -cn 。例子：
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/186683784-35304bd9-3f49-4343-b9f7-d6f30b81f817.png">
+
+
+
+2.增加爱企查批量公司名查询域名功能；
+
+
+调用： -cnf 。例子：
+
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/186684330-86f2500f-aa0b-4a13-b312-c1f0c94f1704.png">
+
+
+
+3.增加爱企查通过公司名查备案信息、分支机构、控股公司占比及域名信息功能；
+
+
+调用： -aqc。例子：
+
+
+获取到的控股公司会再次获取该公司的域名信息。
+
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/186685845-30e5f3d0-9fe0-4a5a-8dcd-b4021abbd615.png">
+
+
+<img width="669" alt="image" src="https://user-images.githubusercontent.com/53268974/186685950-aa477a08-b06d-4dc8-8cbd-47d513badb38.png">
+
+
+
+
+
+4.增加fofa排除蜜罐功能。由于fofa政策修改，该功能目前企业会员才能支持。
+
+
+无法演示，因为我也没有企业会员。
+
+
+调用：-e 1来使用。例子：
+
+
+./AsamF -fofa 'xxx' -e 1
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+
 将Fofa、Zoomeye、Quake、Hunter集成在一起。
 
 本程序可以单独使用上述平台，也可以同时调用4个平台，因为4个平台的语法格式不同，因此调用4个平台聚合搜索的选项不支持语法组合使用，也不是所有的选项均支持4个平台，-h有说明。
