@@ -5,6 +5,8 @@ AsamF，Asset survey and mapping
 
 本程序仅供学习研究使用，禁止利用本程序对相关平台或其他企业或个人造成任何利益侵害！
 
+刚刚加了fofa搜索本地icon以及url搜索icon功能。没有发布
+
 
 V0.1.2版本更新
 
