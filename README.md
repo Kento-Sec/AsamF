@@ -5,10 +5,13 @@ AsamF，Asset survey and mapping
 
 本程序仅供学习研究使用，禁止利用本程序对相关平台或其他企业或个人造成任何利益侵害！
 
-刚刚加了fofa搜索本地icon以及url搜索icon功能。没有发布
+
 
 
 V0.1.2版本更新
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/186801668-0c219244-af1c-439c-a09b-1ae4f330f254.png">
+
 
 1.增加爱企查通过公司名称查域名功能；
 
@@ -56,6 +59,12 @@ V0.1.2版本更新
 
 
 ./AsamF -fofa 'xxx' -e 1
+
+
+5. 刚刚加了fofa搜索本地icon以及url搜索icon功能。
+
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/186802079-a89738b4-ca5d-4516-840b-368e7710c436.png">
 
 
 
