@@ -1,7 +1,7 @@
 # AsamF
 AsamF是一款集成多个网络资产测绘平台的搜索工具
 
-AsamF，Asset survey and mapping V0.1.1
+AsamF，Asset survey and mapping 
 
 本程序仅供学习研究使用，禁止利用本程序对相关平台或其他企业或个人造成任何利益侵害！
 
