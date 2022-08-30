@@ -15,7 +15,7 @@ V0.1.3版本更新
 1. 修复了生成json配置文件的问题。
 
 
-2. 增加shodan功能。其中-option、-facets是作为shodan查询的重点辅助功能：
+2. 增加shodan功能。其中-option、-facets是作为shodan查询的重点辅助选项：
 
 
 <img width="1200" alt="image" src="https://user-images.githubusercontent.com/53268974/187390516-a8ceba15-5c52-4e56-85c3-ff44459f6a2c.png">
