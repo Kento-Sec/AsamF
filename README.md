@@ -24,7 +24,8 @@ V0.1.3版本更新
 查询我的ip信息：
 
 
-<img width="803" alt="image" src="https://user-images.githubusercontent.com/53268974/187396784-a173ac68-ce46-49ce-a304-a21c2a299ac4.png">
+<img width="760" alt="image" src="https://user-images.githubusercontent.com/53268974/187396935-6092d06f-5c19-4b4d-8c3d-e886c128cfd3.png">
+
 
 
 
