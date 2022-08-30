@@ -15,7 +15,7 @@ V0.1.3版本更新
 
 2. 增加shodan功能。其中-option、-facets是作为shodan查询的重点辅助功能：
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/187390516-a8ceba15-5c52-4e56-85c3-ff44459f6a2c.png">
+<img width="1200" alt="image" src="https://user-images.githubusercontent.com/53268974/187390516-a8ceba15-5c52-4e56-85c3-ff44459f6a2c.png">
 
 
 查看shodan 账户info信息：
