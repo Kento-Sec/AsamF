@@ -11,12 +11,57 @@ AsamF，Asset survey and mapping
 
 V0.1.3版本更新
 
-1. 增加shodan功能：
+1. 修复了生成json配置文件的问题。
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/187239774-a216fb54-ac67-44f9-9b48-d24e6dbcf814.png">
+2. 增加shodan功能。其中-option、-facets是作为shodan查询的重点辅助功能：
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/187390516-a8ceba15-5c52-4e56-85c3-ff44459f6a2c.png">
 
 
-2. 修复了生成json配置文件的问题。
+查看shodan 账户info信息：
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/187390813-96d312f3-48e6-4db3-8a25-174394b47bac.png">
+
+查看shodan api info信息：
+
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/187391063-956d91a1-72d1-4980-88dd-21a902fa98cd.png">
+
+
+查看shodan最受欢迎的标签:
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/187391433-71a3f644-1ae2-45e8-a301-b432e02f3a75.png">
+
+
+常规查询：
+
+<img width="767" alt="image" src="https://user-images.githubusercontent.com/53268974/187391753-06b1e66b-561c-4334-9eea-4f33c0245126.png">
+
+
+-option选项:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 --------------------------------------------------------------------------------------------------------------------
