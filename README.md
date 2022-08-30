@@ -21,6 +21,13 @@ V0.1.3版本更新
 <img width="1200" alt="image" src="https://user-images.githubusercontent.com/53268974/187390516-a8ceba15-5c52-4e56-85c3-ff44459f6a2c.png">
 
 
+查询我的ip信息：
+
+
+<img width="803" alt="image" src="https://user-images.githubusercontent.com/53268974/187396784-a173ac68-ce46-49ce-a304-a21c2a299ac4.png">
+
+
+
 查看shodan 账户info：
 
 
@@ -95,6 +102,11 @@ AsamF -shodan '7001' -option p
 如：asn、domain、city、device、ip、isp、org、os、vuln、tag、version等等。请自行研究。
 
 example： AsamF -shodan 'xxxx' -facets ip
+
+一个小小的组合使用例子：
+
+<img width="834" alt="image" src="https://user-images.githubusercontent.com/53268974/187396605-b3ff5276-9c82-41b1-aaf9-02db2ac03295.png">
+
 
 
 
