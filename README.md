@@ -11,18 +11,23 @@ AsamF，Asset survey and mapping
 
 V0.1.3版本更新
 
+
 1. 修复了生成json配置文件的问题。
 
+
 2. 增加shodan功能。其中-option、-facets是作为shodan查询的重点辅助功能：
+
 
 <img width="1200" alt="image" src="https://user-images.githubusercontent.com/53268974/187390516-a8ceba15-5c52-4e56-85c3-ff44459f6a2c.png">
 
 
-查看shodan 账户info信息：
+查看shodan 账户info：
+
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/187390813-96d312f3-48e6-4db3-8a25-174394b47bac.png">
 
-查看shodan api info信息：
+
+查看shodan api info：
 
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/187391063-956d91a1-72d1-4980-88dd-21a902fa98cd.png">
@@ -30,10 +35,12 @@ V0.1.3版本更新
 
 查看shodan最受欢迎的标签:
 
+
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/187391433-71a3f644-1ae2-45e8-a301-b432e02f3a75.png">
 
 
 常规查询：
+
 
 <img width="767" alt="image" src="https://user-images.githubusercontent.com/53268974/187391753-06b1e66b-561c-4334-9eea-4f33c0245126.png">
 
@@ -41,23 +48,53 @@ V0.1.3版本更新
 -option选项:
 
 
+-option选择请输入英文首字母缩写。包括：hi、dd、ds、dr、p。目前仅支持5个参数。
+
+
+hi: hostip,hostinformatio。主机信息查询。
+
+
+<img width="741" alt="image" src="https://user-images.githubusercontent.com/53268974/187393775-e9d73c67-50e0-470f-82b1-0cbf032e7990.png">
+
+
+dd:dnsdomain,Domain Information。获取给定域的所有子域和其他DNS条目。每次查找使用1个查询信用。该功能需要成为member才能使用。
+
+
+<img width="770" alt="image" src="https://user-images.githubusercontent.com/53268974/187393909-af458960-5186-4719-b63c-ffe5149b0436.png">
+
+
+ds:dnsresolve,DNS Lookup。在提供的主机名列表中查找IP地址，支持输入多个主机名，以“,”隔开。
+
+
+<img width="781" alt="image" src="https://user-images.githubusercontent.com/53268974/187393199-408cd51e-93b6-4d40-82fe-93b786ee8332.png">
+
+<img width="781" alt="image" src="https://user-images.githubusercontent.com/53268974/187393587-a94bc585-fd3c-4367-ae61-ec0601458b45.png">
+
+
+
+
+dr:dnsreverse,Reverse DNS Lookup。查找已为给定IP地址列表定义的主机名。该功能需要成为member才能使用。
+
+
+<img width="782" alt="image" src="https://user-images.githubusercontent.com/53268974/187394497-f8b2b926-bd71-41ec-a98f-d2177fab9e41.png">
+
+
+
+p:port,Filtered by Ports 。该功能需要成为member才能使用。
+
+
+AsamF -shodan '7001' -option p
 
 
 
 
 
+-facets 选择是作为shodan高级搜索的选项。该功能需要成为member才能使用。
 
 
+如：asn、domain、city、device、ip、isp、org、os、vuln、tag、version等等。请自行研究。
 
-
-
-
-
-
-
-
-
-
+example： AsamF -shodan 'xxxx' -facets ip
 
 
 
