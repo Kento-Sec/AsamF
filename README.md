@@ -9,15 +9,33 @@ AsamF，Asset survey and mapping
 
 --------------------------------------------------------------------------------------------------------------------
 
-V0.1.4版本更新
+V0.1.4版本更新 
+
+由于更新了配置文件，需要重新生成配置文件。否则子域名收集功能功能会缺失。
 
 1.  优化了shoda myip以及ds的格式输出；
 
-2. 增加了masscan端口扫描功能，目前该功能比较鸡肋，只会扫预设的常见端口；
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/187857802-6cd13951-8054-4b3a-b676-b649592f9224.png">
+
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/187857934-e71b3ce2-af6c-439d-b049-f465a115e770.png">
+
+
+
+2. 增加了masscan端口扫描功能，目前该功能比较鸡肋，只会扫预设的常见端口。这个性能还是不够好，该功能看看就好。
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/187858856-11ba7bcd-ba70-4579-973a-1dd36f227bdf.png">
+
+
+
 
 3. 集成了subfinder子域名收集功能。
 
 在调用爱企查 -cn -cnf功能将同时会对获取到的企业域名进行子域名收集。需要在配置文件中写入相应的key，不写也可以，结果会少一些。
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/187857360-85030d33-62bd-44a2-8835-749b2968a818.png">
+
+
 
 
 
