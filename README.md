@@ -33,7 +33,8 @@ V0.1.4版本更新
 
 在调用爱企查 -cn -cnf功能将同时会对获取到的企业域名进行子域名收集。需要在配置文件中写入相应的key，不写也可以，结果会少一些。
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/187857360-85030d33-62bd-44a2-8835-749b2968a818.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/53268974/187859065-958bcd86-8c39-4c10-91f3-27ace395222e.png">
+
 
 
 
