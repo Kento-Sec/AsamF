@@ -12,6 +12,7 @@ AsamF，Asset survey and mapping
 更新内容：
 
 1.为了能够更好的增加各个平台的拓展功能，对架构进行了修改。将fofa、quake、hunter、zoomeye、aqc,从之前的flag选择修改为command。将联合查询功能集成在union命令当中。所有的命令及子命令都将支持短命令执行，例如fofa 可以直接输入为f。
+
 <img width="1111" alt="001_help" src="https://user-images.githubusercontent.com/53268974/189863171-85826925-fb8e-4988-9532-c935ff25026b.png">
 <img width="808" alt="002_fofa_-h" src="https://user-images.githubusercontent.com/53268974/189863187-f54ddb15-a1f0-4724-ba24-f97c9e0ad4be.png">
 <img width="958" alt="003_zoomeye_-h" src="https://user-images.githubusercontent.com/53268974/189863200-563029b9-3622-4809-b5b3-4950d0dbdb8e.png">
