@@ -32,6 +32,19 @@ AsamF，Asset survey and mapping
 
 <img width="813" alt="014_Union_-d" src="https://user-images.githubusercontent.com/53268974/189863525-de4c341f-6240-4bd0-9e5a-5e389026a0e4.png">
 
+<img width="834" alt="image" src="https://user-images.githubusercontent.com/53268974/189864600-ec12126a-ac56-46bd-b042-4e4e99b34eed.png">
+
+<img width="382" alt="image" src="https://user-images.githubusercontent.com/53268974/189864672-1f1a4c18-2111-4203-891f-75a561b78fb2.png">
+
+<img width="1866" alt="image" src="https://user-images.githubusercontent.com/53268974/189864854-5016331f-3667-4cbb-922a-11d8d0a24d37.png">
+
+quake的数据展示将依据你的账户类型权限：
+
+<img width="950" alt="image" src="https://user-images.githubusercontent.com/53268974/189864984-dbcd61da-8aaf-4bca-8bc4-65fa3b7fa44a.png">
+
+
+
+
 
 4.增加了aqc已-p选项进行控股比例的递归，目前只支持一级递归。
 
