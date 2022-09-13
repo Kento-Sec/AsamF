@@ -10,18 +10,36 @@ AsamF，Asset survey and mapping
 
 
 更新内容：
-1.为了能够更好的增加各个平台的拓展功能，对架构进行了修改。将fofa、quake、hunter、zoomeye、aqc,从之前的flag选择修改为command。将联合查询功能集成在union命令当中。所有的命令及子命令都将支持短命令执行，例如fofa 可以直接输入为f。
 
-2.优化了配置文件。将配置文件设置在了$HOME/.config/asamf的隐藏目录中；
+1.为了能够更好的增加各个平台的拓展功能，对架构进行了修改。将fofa、quake、hunter、zoomeye、aqc,从之前的flag选择修改为command。将联合查询功能集成在union命令当中。所有的命令及子命令都将支持短命令执行，例如fofa 可以直接输入为f。
+<img width="1111" alt="001_help" src="https://user-images.githubusercontent.com/53268974/189863171-85826925-fb8e-4988-9532-c935ff25026b.png">
+<img width="808" alt="002_fofa_-h" src="https://user-images.githubusercontent.com/53268974/189863187-f54ddb15-a1f0-4724-ba24-f97c9e0ad4be.png">
+<img width="958" alt="003_zoomeye_-h" src="https://user-images.githubusercontent.com/53268974/189863200-563029b9-3622-4809-b5b3-4950d0dbdb8e.png">
+<img width="977" alt="004_quake_-h" src="https://user-images.githubusercontent.com/53268974/189863210-4602939f-990e-40b0-ab4d-2f3c6c8ec058.png">
+<img width="804" alt="005_hunter_-h" src="https://user-images.githubusercontent.com/53268974/189863241-b60d66e3-be8b-4cb9-9d6b-f3054ad51e44.png">
+<img width="1481" alt="006_shodan_-h" src="https://user-images.githubusercontent.com/53268974/189863292-85581c3d-21b9-4af7-952f-bec081c7981b.png">
+<img width="836" alt="007_aqc_-h" src="https://user-images.githubusercontent.com/53268974/189863334-7043afab-fa10-4b41-b501-8b16846e3a4f.png">
+<img width="1119" alt="008_union_-h" src="https://user-images.githubusercontent.com/53268974/189863355-03ede063-966d-4cbf-887c-c77def78b6c8.png">
+<img width="687" alt="009_aqc" src="https://user-images.githubusercontent.com/53268974/189863371-adcf249c-262d-42f0-839c-ef89c219ee19.png">
+
+
+2.优化了配置文件。将配置文件设置在了$HOME/.config/asamf的隐藏目录中。；
 
 3.增加了fofa、zoomeye、hunter、quake查询结果的自动保存。保存的内容将比终端展示的内容丰富。
+<img width="813" alt="014_Union_-d" src="https://user-images.githubusercontent.com/53268974/189863525-de4c341f-6240-4bd0-9e5a-5e389026a0e4.png">
 
 4.增加了aqc已-p选项进行控股比例的递归，目前只支持一级递归。
 
 5.增加了一些功能的联动，aqc cn功能会对获取到的url进行主机查询，再查询公司备案、控股、分公司、子域名。
 
+<img width="687" alt="009_aqc" src="https://user-images.githubusercontent.com/53268974/189863389-05154a43-bd81-4c0c-9ba3-a9c6c5a5f650.png">
+<img width="683" alt="012_aqc_cn_3" src="https://user-images.githubusercontent.com/53268974/189863454-7f2c6268-ce8e-4db6-87f7-9bfb88928046.png">
+
+<img width="714" alt="013_aqc_cn_-p递归" src="https://user-images.githubusercontent.com/53268974/189863476-05e6a1c7-3643-4614-b1aa-16fb1f5800be.png">
+
 6.修改了zoomeye、quake的获取数量的方式。zoomeye主命令默认只获取1页内容，输入-p -page 来进行选择你要获取的页数。domain、host、web子命令不需要。quake将会按照你的账户类型来进行获取数据量。注册会员500、高级会员5000、终身会员10000。
 
+<img width="765" alt="016_zoomeye_page" src="https://user-images.githubusercontent.com/53268974/189863556-a885da36-e198-4cbc-8133-18e4ef05bcb0.png">
 
 --------------------------------------------------------------------------------------------------------------------
 
