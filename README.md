@@ -21,7 +21,7 @@ AsamF，Asset survey and mapping
 <img width="1481" alt="006_shodan_-h" src="https://user-images.githubusercontent.com/53268974/189863292-85581c3d-21b9-4af7-952f-bec081c7981b.png">
 <img width="836" alt="007_aqc_-h" src="https://user-images.githubusercontent.com/53268974/189863334-7043afab-fa10-4b41-b501-8b16846e3a4f.png">
 <img width="1119" alt="008_union_-h" src="https://user-images.githubusercontent.com/53268974/189863355-03ede063-966d-4cbf-887c-c77def78b6c8.png">
-<img width="687" alt="009_aqc" src="https://user-images.githubusercontent.com/53268974/189863371-adcf249c-262d-42f0-839c-ef89c219ee19.png">
+
 
 
 2.优化了配置文件。将配置文件设置在了$HOME/.config/asamf的隐藏目录中。；
@@ -31,12 +31,16 @@ AsamF，Asset survey and mapping
 
 4.增加了aqc已-p选项进行控股比例的递归，目前只支持一级递归。
 
+<img width="687" alt="009_aqc" src="https://user-images.githubusercontent.com/53268974/189863371-adcf249c-262d-42f0-839c-ef89c219ee19.png">
+
+
+<img width="714" alt="013_aqc_cn_-p递归" src="https://user-images.githubusercontent.com/53268974/189863476-05e6a1c7-3643-4614-b1aa-16fb1f5800be.png">
+
 5.增加了一些功能的联动，aqc cn功能会对获取到的url进行主机查询，再查询公司备案、控股、分公司、子域名。
 
 <img width="687" alt="009_aqc" src="https://user-images.githubusercontent.com/53268974/189863389-05154a43-bd81-4c0c-9ba3-a9c6c5a5f650.png">
 <img width="683" alt="012_aqc_cn_3" src="https://user-images.githubusercontent.com/53268974/189863454-7f2c6268-ce8e-4db6-87f7-9bfb88928046.png">
 
-<img width="714" alt="013_aqc_cn_-p递归" src="https://user-images.githubusercontent.com/53268974/189863476-05e6a1c7-3643-4614-b1aa-16fb1f5800be.png">
 
 6.修改了zoomeye、quake的获取数量的方式。zoomeye主命令默认只获取1页内容，输入-p -page 来进行选择你要获取的页数。domain、host、web子命令不需要。quake将会按照你的账户类型来进行获取数据量。注册会员500、高级会员5000、终身会员10000。
 
