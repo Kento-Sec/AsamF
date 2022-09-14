@@ -34,7 +34,7 @@ cn:**重点功能** 一站式企业信息、资产收集。使用方法: AsamF a
 
 cnf: 批量对公司名获取url、ip地址。使用方法: Asamf a cnf -q target.txt
 
---percentage, -p :根据控股比例进行递归。默认不递归,即为0。使用方法: AsamF a cn -q 公司名 -p 100
+--percentage, -p :根据控股比例进行递归。默认不递归,即为0。使用方法: AsamF a -q 公司名 -p 100
 
 <img width="1000" alt="a-h" src="https://user-images.githubusercontent.com/53268974/190160160-c2ed04d2-1997-4303-8f8f-69cf22d7da71.png">
 
