@@ -23,7 +23,9 @@ v0.1.6更新
 
 公司名 --> url --> 主机信息查询 --> 备案信息、控股信息、分支机构 --> 子域名收集 --> 信息系统收集、泄露email收集、人员信息收集、目录收集、app信息收集、代码收集。
 
-<img width="1038" alt="image" src="https://user-images.githubusercontent.com/53268974/190141148-d87295f7-355f-465c-a56f-a603f4f55caf.png">
+
+<img width="953" alt="image" src="https://user-images.githubusercontent.com/53268974/190142431-e59a26c0-337f-4f66-977d-a4bb83b70f00.png">
+
 
 
 
