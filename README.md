@@ -11,6 +11,7 @@ AsamF是一款集成多个网络资产测绘平台的一站式企业信息资产
 ## 0x00 简介
 
 AsamF是集成Fofa、Hunter、Quake、Zoomeye、Shodan、爱企查、Chinaz、0.zone、subfinder。AsamF支持Fofa、Hunter、Quake、Zoomeye、Shodan、Chinaz、0.zone配置多个Key，在搜索前加入对应选择key的flag可以自由切换需要使用的key。可以通过info命令来查看改key的账户信息。Union命令将联合Fofa、Hunter、Quake、Zoomeye内置的语法格式进行搜索。所有的命令、子命令都支持短命令使用。
+
 <img width="1728" alt="-h" src="https://user-images.githubusercontent.com/53268974/190156066-4e59dcae-cd8a-414d-a44d-c5ab07d136fe.png">
 
 ***
