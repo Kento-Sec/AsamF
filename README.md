@@ -19,6 +19,8 @@ AsamF是集成Fofa、Hunter、Quake、Zoomeye、Shodan、爱企查、Chinaz、0.
 
 AsamF会在$HOME/.config/asamf/目录下生成config.json文件。如果你有多个key，按照json的格式录入即可，建议键值按照阿拉伯数字依次录入。
 
+自动结果保存在$HOME/asamf/目录下。
+
 ***
 
 ## 0x02 爱企查
@@ -128,7 +130,35 @@ port: 使用方法: AsamF u p -q 8080
 
 ***
 
-## 0x09 sd
+## 0x09 0.zone
+
+0.zone支持: system、email、app、directory、person、code子命令。
+
+system: 查询信息系统。使用方法: AsamF 0 s -q 公司名
+
+email: 查询信息系统。使用方法: AsamF 0 e -q 公司名
+
+app: 查询信息系统。使用方法: AsamF 0 a -q 公司名
+
+directory: 查询信息系统。使用方法: AsamF 0 d -q 公司名
+
+person: 查询信息系统。使用方法: AsamF 0 p -q 公司名
+
+code子命令: 查询信息系统。使用方法: AsamF 0 c -q 公司名
+
+如果不使用子命令直接使用-q flag。将会执行全部功能。
+
+使用方法: AsamF 0 -q 公司名
+
+
+<img width="1728" alt="截屏2022-09-14 21 33 20" src="https://user-images.githubusercontent.com/53268974/190168130-f1a36eb2-bf0f-43f9-9dfd-67713514b8a6.png">
+
+
+
+
+***
+
+## 0x10 sd
 
 sd是子域名收集。
 
@@ -138,7 +168,7 @@ sd是子域名收集。
 
 ***
 
-## 0x10 myip
+## 0x11 myip
 
 myip查询你的互联网ip: 使用方法: AsamF myip
 
