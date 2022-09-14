@@ -43,10 +43,15 @@ fofa支持info、iu、il、host、total以及file子命令。
 
 
 info:查询账户信息。 使用方法：AsamF f info -fk 1
+
 iu:根据icon url进行搜索。使用方法：AsamF f iu -q xxx
+
 il:根据本地icon文件进行搜索。使用方法：AsamF f il -q xxx
+
 host:进行主机搜索。使用方法：AsamF f h -q xxx
+
 total:进行聚合搜索。使用方法：AsamF f t -q xxx
+
 file:批量搜索。使用方法：AsamF f f -q xxx
 
 若不使用子命令，直接使用-q选择进行搜索。
@@ -60,8 +65,11 @@ file:批量搜索。使用方法：AsamF f f -q xxx
 Zoomeye支持info、web、domain、host子命令。
 
 info:查询账户信息。使用方法：AsamF z info -zk 1
+
 web:web应用搜索。使用方法：AsamF z w -q xxx
+
 domian:子域名搜索。使用方法：AsamF z d -q xxx
+
 host:主机搜索。使用方法：AsamF z h -q xxx
 
 若不使用子命令，直接使用-q选择进行搜索。
@@ -108,7 +116,9 @@ Shoan支持: p(port)、hi(host information)、dd(dns domain)、ds(dns resolve)�
 Union是fofa、zoomeye、hunter、quake使用联合查询的命令。内置了domain、app、server、port、host、title、body语法结构。直接输入要查询的内容即可，不需要写查询语法。
 
 domain: 使用方法: AsamF u d -q baidu.com
+
 app: 使用方法: AsamF u a -q apache
+
 port: 使用方法: AsamF u p -q 8080
 
 
