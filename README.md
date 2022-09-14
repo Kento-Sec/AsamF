@@ -155,10 +155,31 @@ code子命令: 查询信息系统。使用方法: AsamF 0 c -q 公司名
 
 
 
+***
+
+## 0x10 Chinaz
+
+Chinaz支持ip、icp、weight、whois、whoisreverse
+
+使用方法: 
+
+AsamF c ip -q ip
+
+AsamF icp -q xxx
+
+AsamF wt -q xxx
+
+AsamF ws -q xxx
+
+AsamF wr -q xxx
+
+
+
+
 
 ***
 
-## 0x10 sd
+## 0x11 sd
 
 sd是子域名收集。
 
@@ -168,7 +189,7 @@ sd是子域名收集。
 
 ***
 
-## 0x11 myip
+## 0x12 myip
 
 myip查询你的互联网ip: 使用方法: AsamF myip
 
