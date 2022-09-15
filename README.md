@@ -166,13 +166,13 @@ Chinaz支持ip、icp、weight、whois、whoisreverse
 
 AsamF c ip -q ip
 
-AsamF icp -q xxx
+AsamF c icp -q xxx
 
-AsamF wt -q xxx
+AsamF c wt -q xxx
 
-AsamF ws -q xxx
+AsamF c ws -q xxx
 
-AsamF wr -q xxx
+AsamF c wr -q xxx
 
 
 
