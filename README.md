@@ -4,7 +4,7 @@ AsamF是一款集成多个网络资产测绘平台的一站式企业信息资产
 
 请勿利用本程序损害任何个人或企业的利益，造成一切影响，开发者将不承担任何责任！
 
-有使用问题，加微信，备注asamf，进群。
+有使用问题，进群。
 
 
 <img width="200" alt="-h" src="https://user-images.githubusercontent.com/53268974/202660560-f820dd63-3c6b-452d-9a9a-e9ec4781f94f.jpeg">
