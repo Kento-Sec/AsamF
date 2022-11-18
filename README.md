@@ -6,7 +6,8 @@ AsamF是一款集成多个网络资产测绘平台的一站式企业信息资产
 
 有使用问题，加微信，备注asamf，进群。
 
-![WechatIMG18](https://user-images.githubusercontent.com/53268974/202656061-300e4fd3-0bd1-4ba8-bf97-6c9cfa042ddd.jpeg)
+
+<img width="500" alt="-h" src="https://user-images.githubusercontent.com/53268974/202656061-300e4fd3-0bd1-4ba8-bf97-6c9cfa042ddd.jpeg">
 
 
  [下载链接](https://github.com/Kento-Sec/AsamF/releases)
