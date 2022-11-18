@@ -8,14 +8,13 @@ AsamF是一款集成多个网络资产测绘平台的一站式企业信息资产
  
  ***
  
-## v0.1.7 更新
 
-1. 修正了fofa、quake、zoomeye的一些问题
-2. fofa增加了total子命令，可以输出全部数据（因为fofa官方的限制，每次访问最大只有2000，因此为了不影响效率，把该功能单独出来了）
-3. 增加了fofa、zoomeye、hunter、shodan、quake的语句规则查询。使用方法：AsamF fofa/quake/shodan/zoomeye/hunter use. （此处制表代码复制fofax，利用这个表格，补充了其他平台的查询语法。感谢fofax。）
-4. 增加了查询最近漏洞的功能。使用方法：AsamF vuln
-5. quake增加了查询的起始页选项：-start 以及获取多少页的选项：-size。quake的接口改为深度查询接口。数据量越大等待时间会长些，数据会一次过展示出来。另外他们部分data里的部分字段的数据提取是有问题。有了解的可以研究下。另外不建议购买quake的会员，不值，他们的逻辑用zoomeye可以代替。
-6. zoomeye可以使用-page来获取多少页。一页是20条数据。
+## V0.1.9更新内容
+
+1.增加了fofa超过1w的数据获取。使用-c的选项，1代表使用1个币，1个币对应获取1万数据，意味着使用-c 1命令将最多获取2万条数据，大于1万但不足2W数据同样会扣一个币。
+2.hunter增加了-page选项。由原来直接获取所有数据将改变为默认20条数据，使用-page来指定获取页数，一页20条数据，跟这里的zoomeye一样。
+3.增加了rapidDns的集成，通过Asamf r r -q target_ip命令获取ip反查域名。Asamf r s -q domain命令获取子域名。
+4.由于0.1.8版本新增了chinaz及aizhan，但config.json没有添加这两个字段。本次版本修正了这个问题。
 
 ***
 
