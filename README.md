@@ -1,5 +1,7 @@
 # AsamF
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Kento-Sec&left_color=green&right_color=red)
+
 AsamF是一款集成多个网络资产测绘平台的一站式企业信息资产收集工具。
 
 请勿利用本程序损害任何个人或企业的利益，造成一切影响，开发者将不承担任何责任！
