@@ -1,5 +1,5 @@
 # AsamF
-
+[![Latest release](https://img.shields.io/github/v/release/Kento-Sec/AsamF)](https://github.com/Kento-Sec/AsamF/releases)![GitHub Release Date](https://img.shields.io/github/release-date/Kento-Sec/AsamF)![GitHub All Releases](https://img.shields.io/github/downloads/Kento-Sec/AsamF/total)[![GitHub issues](https://img.shields.io/github/issues/Kento-Sec/AsamF)](https://github.com/Kento-Sec/AsamF/issues)
 
 AsamF是一款集成多个网络资产测绘平台的一站式企业信息资产收集工具。
 
