@@ -15,6 +15,54 @@ AsamF是一款集成多个网络资产测绘平台的一站式企业信息资产
  
  ***
  
+ ## v0.2.22
+
+ 
+ v0.2.2更新，做了比较大的改动。
+
+1. 由于改动比较大，时间有限导致有些接口暂时进行关闭。但保留所有核心功能。
+
+2. zoomeye、quake、hunter的apikey配置方式做了一些改动，配置方式如下：
+ "hunterkey": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+ "quakekey": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "zoomeyekey": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+
+3. 由于改动了 zoomeye、quake、hunter的apikey配置方式，因此移除了zk、hk、qk。查询key余额直接AsamF z info、AsamF h info、AsamF q info
+
+<img width="775" alt="image" src="https://github.com/Kento-Sec/AsamF/assets/53268974/821bdecb-7344-4d66-9781-5b0543898281">
+
+
+<img width="755" alt="image" src="https://github.com/Kento-Sec/AsamF/assets/53268974/f88ab83c-8dc1-47d0-9810-fd56c4f98c0d">
+
+
+4.  zoomeye、quake、hunter的使用方式将自动取key，不需要手动去设置key。自动判断有余额的key进行搜索。
+
+5. 统一了 zoomeye、quake、hunter页面搜索功能， zoomeye、quake、hunter每一个查询都将默认搜索一页，即20条数据。 zoomeye、quake、hunter均需要设置-p进行获取更多的数据，如需要获取1000条数据即需要配置：-p 50。
+
+6. 注释了zoomeye domain、host接口，暂时没空完善。
+
+7. 注释了union联合查询功能，同样改动太大，没时间改。
+
+8. 注释了chinaz、rapiddns。
+ 
 ## v0.1.13
 
 大大提升了zoomeye、quake的查询速度。
