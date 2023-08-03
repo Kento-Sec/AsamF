@@ -5,8 +5,6 @@ AsamF是一款集成多个网络资产测绘平台的一站式企业信息资产
 
 请勿利用本程序损害任何个人或企业的利益，造成一切影响，开发者将不承担任何责任！
 
-有使用问题，请加微信：wxid_pdfuij5p5pbj22，备注asamf
-
 
  [下载链接](https://github.com/Kento-Sec/AsamF/releases)
  
