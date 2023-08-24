@@ -1,6 +1,8 @@
 # AsamF
 [![Latest release](https://img.shields.io/github/v/release/Kento-Sec/AsamF)](https://github.com/Kento-Sec/AsamF/releases)![GitHub Release Date](https://img.shields.io/github/release-date/Kento-Sec/AsamF)![GitHub All Releases](https://img.shields.io/github/downloads/Kento-Sec/AsamF/total)[![GitHub issues](https://img.shields.io/github/issues/Kento-Sec/AsamF)](https://github.com/Kento-Sec/AsamF/issues)
 
+如果大家有准备考CISSP的计划，可以在苹果手机的app store中搜索：CISSP中文2023。是一个中文题库APP，共计3400到官方题库，以及包含CISSP中1000多条考点详细解释，以及1000多条考试术语解释。
+
 AsamF是一款集成多个网络资产测绘平台的一站式企业信息资产收集工具。
 
 请勿利用本程序损害任何个人或企业的利益，造成一切影响，开发者将不承担任何责任！
